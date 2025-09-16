@@ -7,3 +7,4 @@ langchain_community
 langchain_google_genai
 python-multipart
 pypdf
+faiss-cpu
